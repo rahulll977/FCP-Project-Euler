@@ -1,4 +1,4 @@
-1. Multiples of 3 or 5
+# 1. Multiples of 3 or 5
 
 n = 1000
 count = 0
