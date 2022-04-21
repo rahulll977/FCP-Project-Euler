@@ -1,0 +1,6 @@
+import math
+def func():
+	op = 1
+	for i in range(1, 21):
+		op =op * i // math.gcd(i, ans)
+	return op
