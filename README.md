@@ -15,3 +15,13 @@
 7. Special Pythagorean triplet
 
 8. Largest product in a grid
+
+9. 10001st prime
+
+10. Largest prime factor
+
+11. Lattice paths
+
+12. Number letter counts
+
+13. Power digit sum
