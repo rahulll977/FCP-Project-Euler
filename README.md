@@ -56,6 +56,8 @@
 
 28. Maximum path sum I
 
+29. Truncatable primes
+
 
 
 
