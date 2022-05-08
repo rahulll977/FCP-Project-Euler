@@ -54,6 +54,8 @@
 
 27. Pandigital multiples
 
+28. Maximum path sum I
+
 
 
 
