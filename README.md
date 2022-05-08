@@ -26,37 +26,33 @@
 
 13. Power digit sum
 
-14.
+14. Amicable numbers
 
-15.
+15. Lexicographic permutations
 
-16.
+16. 1000-digit Fibonacci number
 
-17.
+17. 1000-digit Fibonacci number
 
-18.
+18. Reciprocal cycles
 
-19.
+19. Number spiral diagonals
 
-20.
+20. Distinct powers
 
-21.
+21. Digit fifth powers
 
-22.
+22. Coin sums
 
-23.
+23. Pandigital products
 
-24.
+24. Digit cancelling fractions
 
-25.
+25. Circular primes
 
-26.
+26. Double-base palindromes
 
-27.
-
-28.
-
-29.
+27. Pandigital multiples
 
 
 
